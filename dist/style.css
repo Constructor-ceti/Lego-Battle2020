@@ -1,0 +1,42 @@
+body{
+  background:linear-gradient(to left,#FAC03C,pink,Red);
+}
+h1{
+  background-color:gray;
+  text-align:center;
+  font-family:ALGERIAN;
+}
+.head{
+  float:left;
+}
+.head2{
+  float:right;
+  border:dashed 5px gray;
+}
+.mip{
+   border:5px solid gray;
+   width:760px;
+   height:450px;
+}
+a{
+  font-size:40px;
+  border:dashed 5px gray;
+  position:relative;
+  left:800px;
+  top:9px;
+  margin:px;
+}
+a2{
+  float:right;
+  font-size:60px;
+  border:solid 5px red;
+}
+.video{
+  position:relative;
+  left:500px;
+}
+.XDDCC{
+  position:relative;
+  top:6000000px;
+  right:710px;
+}
